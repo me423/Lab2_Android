@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Угадай число!</string>
+    <string name="ahead">Задуманное число меньше</string>
+    <string name="behind">Задуманное число больше</string>
+    <string name="hit">Вы угадали число!</string>
+    <string name="play_more">Сыграть еще...</string>
+    <string name="input_value">Ещё раз</string>
+    <string name="try_to_guess">Попытка</string>
+    <string name="About">Приложение "Угадай число" версия 1.0</string>
+    <string name="TextView">Попробуйте угадать число (1 - 100)</string>
+    <string name="Item1">О программе</string>
+    <string name="Item0">Выход</string>
+    <string name="warning">Введите число в диапазоне 0 - 100!</string>
+
+</resources>
